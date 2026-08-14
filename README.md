@@ -1,6 +1,7 @@
 # CAREBench
 
-**C**ompliance · **A**ccuracy · **R**obustness **Bench**mark — run models on SOB tasks and score their JSON outputs.
+**C**ompliance · **A**ccuracy · **R**obustness · **E**valuation **Bench**mark for Small Language Models on
+Structured JSON Extraction and Correction.
 
 Gold data is loaded from Hugging Face at runtime. Model outputs are written locally under `data/predictions/`. See **[data/README.md](data/README.md)** for dataset paths.
 
