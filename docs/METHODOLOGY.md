@@ -156,4 +156,3 @@ Weights prioritize **accuracy (L2)** over compliance and robustness for deployme
 - Nesting depth framing: DeepJSONEval (Zhou et al., 2025)
 - Over-correction framing: GLEU / grammatical error correction literature
 
-See also: [METRICS_REPORT.md](METRICS_REPORT.md) for empirical results on the DGX benchmark run.
